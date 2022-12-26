@@ -1,0 +1,136 @@
+body{
+  width: 100%;
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+margin: 0 auto 0 auto;
+width: 20%;
+font-family: 'sacramento',sans-serif;
+padding-top: 100px;
+color: #6fbfbf;
+font-size: 300%;
+
+}
+.ms{
+  color: #66bfbf;
+  padding-bottom: 0px;
+}
+.git{
+  color: #66bfbf;
+
+
+}
+}
+h2{
+  color: #11999E;
+  font-weight: normal;
+  font-family: 'Merriweather', arial, sans-serif;
+
+}
+h3{
+  color: #11999E;
+  font-family: 'Merriweather', arial, sans-serif;
+}
+.mountain{
+  background-color: #E4F9F5;
+}
+.redcontainer{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+.bluecontainer{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+
+}
+.topcloud
+{
+  position: absolute;
+right:500px;
+top: 50px;
+}
+.bottomcloud{
+  position : absolute;
+}
+.pro{
+  text-decoration: underline;
+color: #66bfbf;
+}
+.grammer{
+  color: #66bfbf;
+}
+.lastcontainer{
+  height: 150px;
+  width:100%;
+  margin-top: 100px;
+  background-color: #66bfbf;
+}
+.myskills{
+
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  padding-right: 10px;
+  float: left;
+}
+.desc{
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+  background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+h4{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.end{
+font-size: 0.75rem;
+}
+.contactlist{
+  color: ;
+  padding-top: 50px;
+}
+a{
+  padding: 10px;
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+
+}
+.hello{
+  color: #11999E;
+}
